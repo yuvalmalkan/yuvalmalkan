@@ -1,7 +1,6 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:9D00FF&height=220&section=header&text=Hey, I'm Malkan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity | Networking | Software Development&descAlignY=55&descSize=18" width="100%"/>
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=600&height=50&lines=Building+secure+systems...;OSINT+%26+network+intelligence;Python+%2B+Java+%2B+low-level+curiosity;FRC+Robotics+%40+Orbit+1690" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:9D00FF&height=220&section=header&text=Hey, I'm Yuval Malkan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity | Networking | Software Development&descAlignY=55&descSize=18" width="100%"/>
+
 </a>
 </div>
 <br/>
@@ -13,29 +12,8 @@ focus: Cybersecurity, Networking, Software Development
 
 ​
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
-Tech Stack
-<div align="center">
-Languages
-<br/>
-<img src="https://img.shields.io/badge/Python-00F5FF?style=for-the-badge&logo=python&logoColor=black" />
-<img src="https://img.shields.io/badge/Java-9D00FF?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00F5FF?style=for-the-badge&logo=c%2B%2B&logoColor=black" />
-<img src="https://img.shields.io/badge/Bash-9D00FF?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-00F5FF?style=for-the-badge&logo=html5&logoColor=black" />
-Tools & Platforms
-<br/>
-<img src="https://img.shields.io/badge/Linux-9D00FF?style=for-the-badge&logo=linux&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-00F5FF?style=for-the-badge&logo=git&logoColor=black" />
-<img src="https://img.shields.io/badge/VS_Code-9D00FF?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-00F5FF?style=for-the-badge&logo=intellijidea&logoColor=black" />
-<img src="https://img.shields.io/badge/Raspberry_Pi-9D00FF?style=for-the-badge&logo=raspberrypi&logoColor=white" />
-Focus Areas
-<br/>
-<img src="https://img.shields.io/badge/Cybersecurity-00F5FF?style=for-the-badge&logo=hackthebox&logoColor=black" />
-<img src="https://img.shields.io/badge/Networking-9D00FF?style=for-the-badge&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/OSINT-00F5FF?style=for-the-badge&logo=protonvpn&logoColor=black" />
-<img src="https://img.shields.io/badge/Robotics-9D00FF?style=for-the-badge&logo=roboflow&logoColor=white" />
-</div>
+
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
 Featured Projects
 
@@ -53,10 +31,7 @@ Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=yuvalmalkan&theme=algolia&no-frame=true&column=7&margin-w=10&margin-h=10" />
 </div>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
-Contribution Snake 🐍
-<div align="center">
-<img src="https://raw.githubusercontent.com/yuvalmalkan/yuvalmalkan/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</div>
+
 This animated snake regenerates itself from your contribution graph — set it up in under 5 minutes with the snake action guide below.
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
 Connect
